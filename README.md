@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Esha Ali
+#   Esha Ali
 
 I am an **AI Developer** specializing in **Machine Learning**, **Deep Learning**, and **Computer Vision**. I focus on building intelligent, data-driven solutions for real-world challenges, with a strong background in data preprocessing and predictive analysis.
 
