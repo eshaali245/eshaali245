@@ -8,10 +8,9 @@
 Machine Learning • Deep Learning • Computer Vision
 </p>
 
-
 ---
 
-##  Profile
+## Profile
 
 AI Developer focused on building intelligent systems using
 **Machine Learning, Deep Learning, and Computer Vision**
@@ -22,10 +21,13 @@ AI Developer focused on building intelligent systems using
 
 ---
 
-##  Expertise
+## Expertise
 
-🔹 Machine Learning • Deep Learning • Computer Vision
-🔹 Predictive Modeling & Data Analysis
+🔹 Machine Learning
+🔹 Deep Learning
+🔹 Computer Vision
+🔹 Predictive Modeling
+🔹 Data Analysis
 🔹 Model Optimization & Performance Tuning
 🔹 Web Integration (React, HTML, CSS)
 
@@ -39,9 +41,9 @@ AI Developer focused on building intelligent systems using
 <img src="assets/butterfly.gif" width="420"/>
 </p>
 
-> CNN-based classification with preprocessing & augmentation.
-
----
+* Developed a CNN-based model for classifying butterfly species from images
+* Applied preprocessing techniques and data augmentation to improve accuracy
+* Designed the system to handle real-world image variations
 
 ### 💰 Currency Detection
 
@@ -49,9 +51,9 @@ AI Developer focused on building intelligent systems using
 <img src="assets/currency.gif" width="420"/>
 </p>
 
-> Real-time currency detection using OpenCV.
-
----
+* Built a computer vision system using OpenCV for currency recognition
+* Implemented image processing techniques for feature extraction
+* Enabled real-time prediction for practical usage
 
 ### 📧 Spam Email Detection
 
@@ -59,9 +61,9 @@ AI Developer focused on building intelligent systems using
 <img src="assets/spam.gif" width="420"/>
 </p>
 
-> ML-based spam classification with NLP preprocessing.
-
----
+* Created a machine learning model for spam classification
+* Performed text preprocessing and feature extraction using NLP techniques
+* Achieved reliable prediction between spam and non-spam emails
 
 ### 🌪️ Disaster Management AI System
 
@@ -69,18 +71,15 @@ AI Developer focused on building intelligent systems using
 <img src="assets/disaster.gif" width="420"/>
 </p>
 
-> Intelligent system for disaster prediction and response.
-
-* Predicts priority levels
-* Simulates emergency scenarios
-* Real-time dashboard
-* Parallel computing optimization
-
----
+* Designed an intelligent system to predict disaster priority levels
+* Simulated emergency response scenarios for decision support
+* Integrated real-time dashboard and parallel processing for optimization
 
 ### 👗 Clothing Recommendation Analysis
 
-> Data-driven insights and visualization-based recommendations.
+* Conducted dataset preprocessing and trend analysis
+* Built a recommendation approach based on user preferences
+* Visualized insights to support data-driven decisions
 
 ---
 
@@ -134,7 +133,6 @@ AI Developer focused on building intelligent systems using
 </p>
 
 ---
-
 
 ## 📜 Certifications
 
